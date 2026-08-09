@@ -89,15 +89,15 @@ I regularly practice coding problems on **LeetCode** to improve my Data Structur
 | 🚀 My Approach : |
 |---|
 | 💡 **Think** |
-        ↓       
+|       ↓       | 
 | 🛠️ **Build** |
-        ↓       
+|       ↓       |
 | 🐛 **Break** |
-        ↓       
+|       ↓       |
 | 🔍 **Debug** |
-        ↓       
+|       ↓       |
 | 📚 **Learn** |
-        ↓       
+|       ↓       |
 | 🚀 **Improve** |
 
 Every problem I solve is another step toward becoming a better developer.
