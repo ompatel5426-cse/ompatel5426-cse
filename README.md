@@ -84,19 +84,21 @@ I regularly practice coding problems on **LeetCode** to improve my Data Structur
 * 📚 Stacks & Queues
 * ⚡ Algorithms & Complexity Analysis
 
-### 🎯 My Approach :
+## 🧠 My Developer Mindset
 
-💡 **Think**  
-↓  
-🛠️ **Build**  
-↓  
-🐛 **Break**  
-↓  
-🔍 **Debug**  
-↓  
-📚 **Learn**  
-↓  
-🚀 **Improve**
+| 🚀 My Approach : |
+|---|
+| 💡 **Think** |
+| ↓ |
+| 🛠️ **Build** |
+| ↓ |
+| 🐛 **Break** |
+| ↓ |
+| 🔍 **Debug** |
+| ↓ |
+| 📚 **Learn** |
+| ↓ |
+| 🚀 **Improve** |
 
 Every problem I solve is another step toward becoming a better developer.
 
