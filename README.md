@@ -86,15 +86,20 @@ I regularly practice coding problems on **LeetCode** to improve my Data Structur
 
 ### 🎯 My Approach :
 
-  💡 Think 
+  💡 Think
+  
      ↓  
-  🛠️ Build  
+  🛠️ Build
+  
      ↓  
-  🐛 Break 
+  🐛 Break
+  
      ↓  
   🔍 Debug 
+  
      ↓  
-  📚 Learn 
+  📚 Learn
+  
      ↓  
   🚀 Improve
 
