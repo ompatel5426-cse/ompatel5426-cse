@@ -84,9 +84,19 @@ I regularly practice coding problems on **LeetCode** to improve my Data Structur
 * 📚 Stacks & Queues
 * ⚡ Algorithms & Complexity Analysis
 
-### 🎯 My Approach
+### 🎯 My Approach :
 
-**Learn → Practice → Solve → Analyze → Improve**
+  💡 Think 
+     ↓  
+  🛠️ Build  
+     ↓  
+  🐛 Break 
+     ↓  
+  🔍 Debug 
+     ↓  
+  📚 Learn 
+     ↓  
+  🚀 Improve
 
 Every problem I solve is another step toward becoming a better developer.
 
@@ -94,19 +104,22 @@ Every problem I solve is another step toward becoming a better developer.
 
 ### 🏦 Mini Bank Management System
 
-A Java OOP based banking application demonstrating classes, objects, encapsulation, inheritance, and basic banking operations.
+--> A Java OOP based banking application demonstrating classes, objects, encapsulation, inheritance, and basic banking operations.
+
 
 ### 🎓 StudentHub
 
-A student-focused website built using HTML & CSS.
+--> A student-focused website built using HTML & CSS.
+
 
 ### 🐍 Snake Game
 
-A console-based game developed using C++ with a focus on programming logic and problem solving.
+--> A console-based game developed using C++ with a focus on programming logic and problem solving.
+
 
 ### 📦 Inventory Management System
 
-A file-based inventory management project developed using C++.
+--> A file-based inventory management project developed using C++.
 
 ---
 
@@ -131,13 +144,13 @@ A file-based inventory management project developed using C++.
 
 ## 📫 Connect With Me
 
-📧 ** Email : ** om.patel.2862@gmail.com  
+📧  Email :  om.patel.2862@gmail.com  
 
-💼 ** LinkedIn : ** https://www.linkedin.com/in/om-patel-691848372/
+💼  LinkedIn :  https://www.linkedin.com/in/om-patel-691848372/
 
-🧩 ** LeetCode : ** (https://leetcode.com/u/Ompatel-74/)
+🧩  LeetCode :  https://leetcode.com/u/Ompatel-74/
 
-🌐 **Portfolio:** YOUR_PORTFOLIO
+🌐  Portfolio :  YOUR_PORTFOLIO
 
 ---
 
