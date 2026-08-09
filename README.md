@@ -127,7 +127,19 @@ Every problem I solve is another step toward becoming a better developer.
 
 ## 📈 My Coding Journey
 
-**🎓 Learn** → **💻 Code** → **🧩 Solve** → **🏆 Compete** → **🚀 Build** → **🌱 Grow**
+| 🚀 My Journey |
+|:---:|
+| 🎓 **Learn** |
+| ↓ |
+| 💻 **Code** |
+| ↓ |
+| 🧩 **Solve** |
+| ↓ |
+| 🏆 **Compete** |
+| ↓ |
+| 🚀 **Build** |
+| ↓ |
+| 🌱 **Grow** |
 
 > From writing my first programs to solving DSA problems and building projects,
 > I'm focused on becoming a better developer every day.
