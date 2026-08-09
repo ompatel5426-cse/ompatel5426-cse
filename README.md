@@ -86,18 +86,17 @@ I regularly practice coding problems on **LeetCode** to improve my Data Structur
 
 ## 🧠 My Developer Mindset
 
-| 🚀 My Approach : |
-|---|
-| 💡 **Think** |
-|       ↓       | 
+| 💡 Think |
+|:---:|
+| ↓ |
 | 🛠️ **Build** |
-|       ↓       |
+| ↓ |
 | 🐛 **Break** |
-|       ↓       |
+| ↓ |
 | 🔍 **Debug** |
-|       ↓       |
+| ↓ |
 | 📚 **Learn** |
-|       ↓       |
+| ↓ |
 | 🚀 **Improve** |
 
 Every problem I solve is another step toward becoming a better developer.
@@ -126,12 +125,12 @@ Every problem I solve is another step toward becoming a better developer.
 
 ---
 
-## 📊 GitHub Stats
+## 📈 My Coding Journey
 
-![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=ompatel5426-cse\&show_icons=true\&theme=tokyonight)
+**🎓 Learn** → **💻 Code** → **🧩 Solve** → **🏆 Compete** → **🚀 Build** → **🌱 Grow**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ompatel5426-cse\&layout=compact\&theme=tokyonight)
-
+> From writing my first programs to solving DSA problems and building projects,
+> I'm focused on becoming a better developer every day.
 ---
 
 ## 🎯 My Goals
