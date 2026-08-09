@@ -44,6 +44,7 @@ I enjoy turning ideas into code and improving my problem-solving skills one chal
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
 </div>
+
 ---
 
 ## 📚 Currently Learning
