@@ -133,7 +133,7 @@ I regularly practice coding problems on **LeetCode** to improve my Data Structur
 
 <div align="center">
 
-| 🚀 My Journey |
+| 🚀 My Journey : |
 |:---:|
 | 🎓 **Learn** |
 | ↓ |
