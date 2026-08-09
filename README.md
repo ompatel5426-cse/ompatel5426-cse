@@ -86,6 +86,8 @@ I regularly practice coding problems on **LeetCode** to improve my Data Structur
 
 ## 🧠 My Developer Mindset
 
+<div align="center">
+
 | 💡 Think |
 |:---:|
 | ↓ |
@@ -99,7 +101,9 @@ I regularly practice coding problems on **LeetCode** to improve my Data Structur
 | ↓ |
 | 🚀 **Improve** |
 
-Every problem I solve is another step toward becoming a better developer.
+</div>
+
+> **Every problem I solve is another step toward becoming a better developer.**
 
 
 ## 🚀 Featured Projects
@@ -127,6 +131,8 @@ Every problem I solve is another step toward becoming a better developer.
 
 ## 📈 My Coding Journey
 
+<div align="center">
+
 | 🚀 My Journey |
 |:---:|
 | 🎓 **Learn** |
@@ -140,6 +146,8 @@ Every problem I solve is another step toward becoming a better developer.
 | 🚀 **Build** |
 | ↓ |
 | 🌱 **Grow** |
+
+</div>
 
 > From writing my first programs to solving DSA problems and building projects,
 > I'm focused on becoming a better developer every day.
